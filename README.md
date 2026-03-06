@@ -1,4 +1,4 @@
-## Memory Card Game Project
+# Memory Card Game Project
 
 A fun and interactive Memory Card Game that allows users to:
 
