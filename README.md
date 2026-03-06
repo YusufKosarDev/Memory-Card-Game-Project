@@ -1,5 +1,4 @@
-# Memory Card Game Project
-
+## Memory Card Game Project
 
 A fun and interactive Memory Card Game that allows users to:
 
@@ -24,12 +23,16 @@ Score Tracking: Shows the current score based on matched pairs.
 
 Restart Game: Resets the game board for a new round.
 
+Card Data: All cards and their images are loaded dynamically from a cards.json file, making it easy to add or modify cards.
+
 The interface is clean and minimal, focusing on usability and a smooth gaming experience.
 
 
 ## ⚙️ How Does It Work?
 
 Single-page structure: Built with HTML, CSS, and JavaScript.
+
+JSON-driven cards: Card information (images and names) is stored in cards.json and loaded dynamically.
 
 Event-driven logic: Clicking a card triggers the flip and match-check logic.
 
@@ -43,6 +46,8 @@ Lightweight implementation: No external libraries — pure JavaScript and DOM ma
 ## 🎓 What I Learned?
 
 Handling click events and conditional logic in JavaScript.
+
+Loading external JSON data and dynamically rendering UI elements.
 
 Managing dynamic UI updates with DOM manipulation.
 
